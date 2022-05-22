@@ -1,5 +1,5 @@
 const yo = require("yo-yo");
-
+// Grab dom elements
 const todoInput = document.getElementById("todoInput");
 const addBtn = document.getElementById("button");
 const ul = document.getElementById("todos");
